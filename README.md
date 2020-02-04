@@ -15,7 +15,7 @@ Ver código con corrida:
 Resuelva el problema del tanque esférico (figura P6.19) mediante el método de NewtonRaphson. Grafique la función subyacente así como las aproximaciones que se obtienen paso a
 paso.
 
-Ver código con corrida: https://nbviewer.jupyter.org/gist/CD-Ceballos/8e26db783c3de6cca3f99be2bd2ed3a0
+Ver código con corrida: <https://nbviewer.jupyter.org/gist/CD-Ceballos/8e26db783c3de6cca3f99be2bd2ed3a0>
 
 
 ### Ejercicio 3, Problema 6.8: Método de la Secante
