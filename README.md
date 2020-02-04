@@ -27,9 +27,9 @@ Determine la raíz x^3.5=80, con el método de la secante dentro de Es=0.1%, con
 ### Ejercicio 4, Problema 9.14: Métodos de Gauss
 Resuelva el problema de los paracaidistas de acuerdo a los datos de la tabla. (Compare con Ejemplo 9.11) usando el método de Gauss, Gauss-Jordan y descomposición LU.
 
-a)Eliminación de Gauss Simple
-b)Método de Gauss Jordan
-c)Descomposición LU
+- a)Eliminación de Gauss Simple
+- b)Método de Gauss Jordan
+- c)Descomposición LU
 
 Ver código con corrida:
 [![View Proyecto-Final-MNI on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/74161-proyecto-final-mni)
