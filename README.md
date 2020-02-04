@@ -6,8 +6,8 @@ Aquí se encuentran los códigos que dan solución a los ejercicios planteados e
 ### Ejercicio 1, Problema 21.11: Integración Numérica
 Evalúe la integral de los datos tabulados a continuación. Grafica la función subyacente, mostrando el área a integrar.
 
-a)Regla del Trapecio
-b)Regla de Simpson
+-a)Regla del Trapecio
+-b)Regla de Simpson
 
 Ver código con corrida: 
 
