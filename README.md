@@ -9,7 +9,7 @@ Evalúe la integral de los datos tabulados a continuación. Grafica la función 
 - a)Regla del Trapecio
 - b)Regla de Simpson
 
-Ver código con corrida: 
+[Ver código con corrida](https://nbviewer.jupyter.org/gist/CD-Ceballos/33904be654007a1cf28f739a443add23)
 
 ### Ejercicio 2, Problema 6.19: Método de Newton-Raphson
 Resuelva el problema del tanque esférico (figura P6.19) mediante el método de NewtonRaphson. Grafique la función subyacente así como las aproximaciones que se obtienen paso a
